@@ -46,7 +46,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-#自己配置
+#github提交文件白名单
 /*
 !/.settings/
 !/assets/
